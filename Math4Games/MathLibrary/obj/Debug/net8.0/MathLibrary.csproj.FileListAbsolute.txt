@@ -1,0 +1,11 @@
+C:\Dev\Math4Games\MathLibrary\bin\Debug\net8.0\MathLibrary.deps.json
+C:\Dev\Math4Games\MathLibrary\bin\Debug\net8.0\MathLibrary.dll
+C:\Dev\Math4Games\MathLibrary\bin\Debug\net8.0\MathLibrary.pdb
+C:\Dev\Math4Games\MathLibrary\obj\Debug\net8.0\MathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Math4Games\MathLibrary\obj\Debug\net8.0\MathLibrary.AssemblyInfoInputs.cache
+C:\Dev\Math4Games\MathLibrary\obj\Debug\net8.0\MathLibrary.AssemblyInfo.cs
+C:\Dev\Math4Games\MathLibrary\obj\Debug\net8.0\MathLibrary.csproj.CoreCompileInputs.cache
+C:\Dev\Math4Games\MathLibrary\obj\Debug\net8.0\MathLibrary.dll
+C:\Dev\Math4Games\MathLibrary\obj\Debug\net8.0\refint\MathLibrary.dll
+C:\Dev\Math4Games\MathLibrary\obj\Debug\net8.0\MathLibrary.pdb
+C:\Dev\Math4Games\MathLibrary\obj\Debug\net8.0\ref\MathLibrary.dll

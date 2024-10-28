@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WwcqdiC5r47zM01hN5Au8iHsJyk4IbFYIHXVyjNiUP2inK08kAH6TOjZM4Goh3V2+Imr5XZI8FTYuPrAcCLcZw==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Math4Games\\Sandbox\\Sandbox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\S248020\\.nuget\\packages\\raylib-cs\\6.1.1\\raylib-cs.6.1.1.nupkg.sha512",
+    "C:\\Users\\S248020\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
